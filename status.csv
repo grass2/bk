@@ -1,4 +1,5 @@
 Serial number,Subject,Certificate within validity period,Valid keychain,Note,Not found in Google's revoked keybox list
+1001,"countryName=US | stateOrProvinceName=California | organizationName=Google, Inc. | organizationalUnitName=Android | commonName=Android Keystore Software Attestation Intermediate",✅,✅,🟡 AOSP software attestation root certificate (EC),✅
 2441400622645777626,serialNumber=4d0008edd4523f4a,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 3644717209372610241,serialNumber=38f26f1125a20e5b,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 4393895627937872466,serialNumber=b71b0a2454c69577 | title=TEE,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
