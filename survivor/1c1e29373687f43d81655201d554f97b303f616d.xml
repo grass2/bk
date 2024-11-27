@@ -1,6 +1,6 @@
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="tryigitx"><Key algorithm="ecdsa"><PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
+<Keybox DeviceID="16 Pro Max"><Key algorithm="ecdsa"><PrivateKey format="pem">-----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIID5yCYzkJhdCsehXDURLMShvrrbquwxeOujLpD9A+BooAoGCCqGSM49
 AwEHoUQDQgAEk34T1hXzD7dJlCw2uJ+t4LaGbO30e6Mtcfr254eezlEYZvNfBxVP
 DZRmrT/TptH08rtPTFYvAn/CCp3o+/ZY5w==
