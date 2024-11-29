@@ -1,6 +1,7 @@
 Serial number,Subject,Certificate within validity period,Valid keychain,Note,Not found in Google's revoked keybox list
 1000,"countryName=US | stateOrProvinceName=California | organizationName=Google, Inc. | organizationalUnitName=Android | commonName=Android Software Attestation Key",✅,✅,🟡 AOSP software attestation root certificate (RSA),✅
 1001,"countryName=US | stateOrProvinceName=California | organizationName=Google, Inc. | organizationalUnitName=Android | commonName=Android Keystore Software Attestation Intermediate",✅,✅,🟡 AOSP software attestation root certificate (EC),✅
+5f625aef1fb94a83,commonName=CIT | title=CITRA | serialNumber=CITRA-STANDALONE,✅,✅,❌ Unknown root certificate,✅
 2441400622645777626,serialNumber=4d0008edd4523f4a,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 3644717209372610241,serialNumber=38f26f1125a20e5b,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 4393895627937872466,serialNumber=b71b0a2454c69577 | title=TEE,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
@@ -18,6 +19,7 @@ Serial number,Subject,Certificate within validity period,Valid keychain,Note,Not
 14138857243207454896,serialNumber=094ca2793d91c305 | title=TEE,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 17342033108574180851,serialNumber=0bb56886b018b336,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 b48dbbd75efb21cd0a48497f8176d0,title=TEE | serialNumber=d85fc4b748795139f5f3be099c39c139,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
+109d7fa64c9b7f86dea392990bda076c,title=TEE | serialNumber=109d7fa64c9b7f86dea392990bda076c,✅,✅,❌ Unknown root certificate,✅
 208f5008c39038a7105aa3d2ccfa8f76,title=TEE | serialNumber=026b244e023abdc307c080b2a070fcea,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 24f7bff38ae38534a66dd409a15018d3,title=TEE | serialNumber=59a927ca4c978eedd100e8a0b2189420,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
 263c56c9661db1056077c41533e9273a,title=TEE | serialNumber=4464fc9748f7fa6f1ca1b244ffe8531c,✅,✅,✅ Google hardware attestation root certificate,❌ KEY_COMPROMISE
